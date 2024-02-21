@@ -13,16 +13,7 @@ Before you start, ensure you have Python installed on your system. This project 
 
 ### Setting Up the Python Environment
 
-1. **Clone the Repository**
-
-First, clone this repository to your local machine using Git.
-
-```bash
-git clone https://your-repository-url.git
-cd your-project-directory
-```
-
-2. **Create a Virtual Environment**
+1. **Create a Virtual Environment**
 
 It's recommended to create a virtual environment to manage the project's dependencies separately.
 
@@ -42,7 +33,7 @@ python -m venv venv
 source venv/bin/activate
 ```
 
-3. **Install Dependencies**
+2. **Install Dependencies**
 
 Install the project dependencies using pip:
 
